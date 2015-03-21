@@ -1,0 +1,17 @@
+<configuration plugin="thebrain">
+  <settings name="settings">
+    <set name="rate">10</set>
+    <set name="warnmsgbadword">Watch your Tone!</set>
+    <set name="warnmsgbadname">Change your name or get kicked</set>
+    <set name="warnduration">2m</set>
+    <set name="minlevel">24</set>
+   
+    <set name="tell_badwords_in_db">no</set>
+    <set name="tell_badwords_text">^1 I know no ^3 $count bad words</set>
+
+    <set name="uppercaseConttroll">on</set> 
+    <set name="warnmsguppercase">Dont write uppercase all the time!</set>
+    <set name="warn_uppercase_after_times">3</set>
+    <set name="warn_uppercase_duration">2m</set>
+  </settings>
+</configuration>
