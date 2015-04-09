@@ -1,60 +1,54 @@
 <configuration plugin="admin">
 	<settings name="commands">
 
-<!-- Level 100’s →
-<set name="enable">100</set>
-<set name="disable">100</set>
-	<set name="die">100</set>
-	<set name="reconfig">100</set>
-	<set name="restart">100</set>
-	<set name="update">100</set>
-	<set name="mask">100</set>
-	<set name="unmask">100</set>
-	<set name="runas-su">100</set>
-	<set name="debug">100</set>
-<set name="cmdlevel">100</set>
-	<set name="pause">100</set>
-	<set name="rebuild">100</set>
-	<set name="ungroup">100</set>
-	<set name="delgroup">100</set>
-	<set name="clientinfo">100</set>
-	<set name="editgroup">100</set>
-	<set name="groups">100</set>
-	<set name="newgroup">100</set>
-	<set name="putgroup">100</set>
-<set name="map">100</set>
-	<set name="maprotate">100</set>
-<set name="spankall-sall">100</set>
-	<set name="banall-ball">100</set>
-	<set name="kickall-kall">100</set>
-	<set name="unban">100</set>
-<set name="pbss">100</set>
+<!-- Level 100’s -->
+		<set name="enable">100</set>
+		<set name="disable">100</set>
+		<set name="die">100</set>
+		<set name="reconfig">100</set>
+		<set name="restart">100</set>
+		<set name="update">100</set>
+		<set name="mask">100</set>
+		<set name="unmask">100</set>
+		<set name="runas-su">100</set>
+		<set name="debug">100</set>
+		<set name="cmdlevel">100</set>
+		<set name="pause">100</set>
+		<set name="rebuild">100</set>
+		<set name="ungroup">100</set>
+		<set name="delgroup">100</set>
+		<set name="clientinfo">100</set>
+		<set name="editgroup">100</set>
+		<set name="groups">100</set>
+		<set name="newgroup">100</set>
+		<set name="putgroup">100</set>
+		<set name="map">100</set>
+		<set name="maprotate">100</set>
+		<set name="spankall-sall">100</set>
+		<set name="banall-ball">100</set>
+		<set name="kickall-kall">100</set>
+		<set name="unban">100</set>
+		<set name="pbss">100</set>
 
-<!-- Level 80’s →
+<!-- Level 80’s -->
 		<set name="warnclear-wc">80</set>
 		<set name="clear-kiss">80</set>
 		<set name="makereg-mr">80</set>
 		<set name="ban-b">80</set>
-		
 
+<!-- Level 60’s -->
+		<set name="spank">60</set>
+		<set name="warnremove-wr">60</set>
+		<set name="scream">40</set>
 
-
-
-
-<!-- Level 60’s →
-<set name="spank">60</set>
-<set name="warnremove-wr">60</set>
-	<set name="scream">40</set>
-
-
-<!-- Level 40’s →
+<!-- Level 40’s -->
 		<set name="permban-pb">80</set>
 		<set name="tempban-tb">40</set>
 		<set name="baninfo-bi">40</set>
 		<set name="admintest">40</set>
 		<set name="kick-k">20</set>
 
-<!-- Level 20’s →
+<!-- Level 20’s -->
 		<set name="find">20</set>
 		<set name="warns">20</set>
 		<set name="w-slap">20</set>
@@ -62,40 +56,30 @@
 		<set name="status">20</set>
 		<set name="ci">20</set>
 
+<!-- Level 5’s -->
+		<set name="lookup-l">5</set>
+		<set name="notice">5</set>
+		<set name="aliases-alias">5</set>
+		<set name="warninfo-wi">5</set>
+		<set name="spams">5</set>
+		<set name="spam-s">5</set>
+		<set name="list">5</set>
+		<set name="say">5</set>
+		<set name="leveltest-lt">5</set>
+		<set name="poke">5</set>
+		<set name="admins">0</set>
+		<set name="b3">9</set>
+		<set name="greeting">9</set>
+		<set name="seen">2</set>
+		<set name="maps">2</set>
+		<set name="nextmap">0</set>
+		<set name="regtest">1</set>
+		<set name="time">1</set>
+		<set name="help-h">0</set>
+		<set name="register">0-0</set>
+		<set name="rules-r">0</set>
 
-<!-- Level 5’s →
-<set name="lookup-l">5</set>
-	<set name="notice">5</set>
-<set name="aliases-alias">5</set>
-	<set name="warninfo-wi">5</set>
-	<set name="spams">5</set>
-	<set name="spam-s">5</set>
-	<set name="list">5</set>
-	<set name="say">5</set>
-	<set name="leveltest-lt">5</set>
-<set name="poke">5</set>
-	
-
-
-
-
-
-
-
-
-<set name="admins">0</set>
-	<set name="b3">9</set>
-	<set name="greeting">9</set>
-	<set name="seen">2</set>
-	<set name="maps">2</set>
-	<set name="nextmap">0</set>
-	<set name="regtest">1</set>
-	<set name="time">1</set>
-	<set name="help-h">0</set>
-	<set name="register">0-0</set>
-	<set name="rules-r">0</set>
-
-</settings>
+	</settings>
 	<settings name="settings">
 		<set name="noreason_level">999</set>
 		<set name="hidecmd_level">100</set>
@@ -107,7 +91,7 @@
 		<set name="ban_duration">2d</set>
 		<set name="protected_tag">iG</set>
 	</settings>
-		<settings name="messages">
+	<settings name="messages">
 		<set name="ban_denied">^7%s^7, you can't ban %s</set>
 		<set name="help_available">^7Available commands: %s</set>
 		<set name="greeting_yours">^7Your greeting is %s</set>
