@@ -168,6 +168,7 @@
 		<set name="obj">Remember, play the objective!</set>
 		<set name="spam">Don't spam chat please.</set>
 		<set name="meow">Meeeowwww (=^..^=)</set>
+		<set name="test">test (=^..^=)</set>
 
 	</settings>
 	<settings name="warn_reasons">
