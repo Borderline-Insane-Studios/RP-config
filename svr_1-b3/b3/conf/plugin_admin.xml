@@ -169,6 +169,13 @@
 		<set name="spam">Don't spam chat please.</set>
 		<set name="meow">Meeeowwww (=^..^=)</set>
 		<set name="test">test (=^..^=)</set>
+		<set name="disabled">Disabled Perks/Weapons: Jugg, Marty, Last Stand, GL, Stuns </set>
+		<set name="ns">Nade-Switching will result in a ban. Don't do it!</set>
+		<set name="camp">No excessive camping!</set>
+		<set name="abuse">Don't abuse x3 Frag, RPGs or Elevators.</set>
+		
+		
+		
 
 	</settings>
 	<settings name="warn_reasons">
@@ -181,6 +188,10 @@
 		<set name="rule4">1d, /spam#rule4</set>
 		
 		<set name="obj">1h, /spam#obj</set>
+		<set name="disabled">1h, /spam#disabled</set>
+		<set name="ns">3h, /spam#ns</set>
+		<set name="camp">1h, /spam#camp</set>
+		<set name="abuse">1h, /spam#abuse</set>
 		<set name="spam">1h, /spam#spam</set>
 				
 		<set name="improperreason">1w, Do not use insults as a reason!</set>
