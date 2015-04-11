@@ -173,9 +173,12 @@
 		<set name="ns">Nade-Switching will result in a ban. Don't do it!</set>
 		<set name="camp">No excessive camping!</set>
 		<set name="abuse">Don't abuse x3 Frag, RPGs or Elevators.</set>
-		<set name="ig">Visit us at www.iG-gaming.tk. Don't forget to register!</set>
-		<set name="ts">Join us on Teamspeak:^5ts3.boh-4u.de</set>
-		<set name="xf">Need an admin? Add us on ^1X-Fire^7: ^2ReepsBC^7, ^2LTMunday^7, ^2joschi14532 ^7 and ^2bighead507^7.</set>
+		<set name="ig">Visit us at ^5www.iG-gaming.tk^7. Don't forget to register!</set>
+		<set name="ts">Join us on Teamspeak: ^5ts3.boh-4u.de</set>
+		<set name="xfire">Need an admin? Add us on ^1X-Fire^7: ^2ReepsBC^7, ^2LTMunday^7, ^2joschi14532 ^7 and ^2bighead507^7.</set>
+		<set name="adv">No advertising.</set>
+		<set name="report">If you think someone may be hacking, or breaking any other rules, report them at ^5www.iG-Gaming.tk^7.</set>
+		<set name="accuse">Don't accuse players of hacking in-game. Please report all accusations at ^5www.iG-Gaming.tk^7.</set>
 		
 		
 		
@@ -191,6 +194,8 @@
 		<set name="rule4">1d, /spam#rule4</set>
 		
 		<set name="obj">1h, /spam#obj</set>
+		<set name="accuse">1h, /spam#accuse</set>
+		<set name="adv">1h, /spam#adv</set>
 		<set name="disabled">1h, /spam#disabled</set>
 		<set name="ns">3h, /spam#ns</set>
 		<set name="camp">1h, /spam#camp</set>
