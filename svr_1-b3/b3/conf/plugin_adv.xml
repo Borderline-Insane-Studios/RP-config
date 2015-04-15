@@ -42,6 +42,7 @@
       @admins - connected admins' names. You can change the message format in your admin plugin config
     -->
 		<ad>^7Type ^1!rules</ad>
+		<ad>Need an admin? Add us on ^5X-Fire^7: ^7ReepsBC^5, ^7LTMunday^5, ^7joschi14532 ^5 and ^7bighead507^5.</ad>
 		<!--<ad>merry Christmas!</ad>
 		<ad>sretan Božic!</ad>
 		<ad>vesela koleda!</ad>
