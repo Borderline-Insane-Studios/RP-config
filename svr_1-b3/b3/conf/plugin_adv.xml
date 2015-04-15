@@ -42,10 +42,10 @@
       @admins - connected admins' names. You can change the message format in your admin plugin config
     -->
 		<ad>^7Type ^1!rules</ad>
-		<ad>Need an admin? Add us on ^1X-Fire^7: ^5ReepsBC^7, ^5LTMunday^7, ^5joschi14532 ^7 and ^5bighead507^7.</ad>
-		<ad>Visit us at ^5www.iG-gaming.tk^7. Don't forget to register!</ad>
+		<ad>Need an admin? Add us on ^1X-Fire^7: ^5ReepsBC^7, ^5LTMunday^7, ^5joschi14532 ^7 or ^5bighead507^7.</ad>
+		<ad>Visit us at ^5www.ig-gaming.tk^7. Don't forget to register!</ad>
 		<ad>Join us on Teamspeak: ^5ts3.boh-4u.de</ad>
-		<ad>Don't forget to ^5add^7 the server to your ^5Favourites^7.</ad>
+		<ad>Don't forget to ^5add^7 the server to your ^5favorites^7.</ad>
 		<!--<ad>merry Christmas!</ad>
 		<ad>sretan Božic!</ad>
 		<ad>vesela koleda!</ad>
