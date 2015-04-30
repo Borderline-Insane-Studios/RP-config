@@ -42,7 +42,7 @@
 		<set name="scream">40</set>
 
 <!-- Level 40’s -->
-		<set name="permban-pb">80</set>
+		<set name="permban-pb">60</set>
 		<set name="tempban-tb">40</set>
 		<set name="baninfo-bi">40</set>
 		<set name="admintest">40</set>
