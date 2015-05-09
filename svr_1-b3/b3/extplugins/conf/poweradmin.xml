@@ -13,7 +13,7 @@
 		The next commands only apply when you have installed the _b3_poweradmin.gsc as an extra serverside mod
 		You have to know basic CoD scripting to add it to your gametype scripts! If you don't, leave it alone for now!
 -->
-		<set name="paforce-force">100</set>
+		<set name="paforce-force">20</set>
 		<set name="pascore-score">100</set>
 		<set name="padeath-death">100</set>
 		<set name="palosepoint-losepoint">100</set>
