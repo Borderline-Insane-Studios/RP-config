@@ -1,0 +1,26 @@
+<configuration plugin="wideban">
+	<settings name="settings">
+		<!-- Number of days that are evaluated -->
+		<set name="monitoringduration">7</set>
+		
+		<!-- Point-limit after which additional actions are being taken -->
+		<!-- Setting this value to 0 will disable the plugin -->
+		<set name="limit">15</set>
+		<!-- Point-limit after which the player will be notified -->
+		<set name="infolimit">10</set>
+		
+		<!-- DO NOT CHANGE: the poweradmin mod needs to be patched for this before -->
+		<set name="poweradminmod">no</set>
+		
+		<!-- Number of short bans that will be issued -->
+		<set name="shortbanlimit">2</set>
+		<!-- Duration for short bans -->
+		<set name="shortbanduration">3d</set>
+		
+		<!-- Number of medium bans that will be issued -->
+		<!-- If you do not want players to be permbanned set this value to 999 -->
+		<set name="mediumbanlimit">1</set>
+		<!-- Duration for medium bans -->
+		<set name="mediumbanduration">5d</set>
+	</settings>
+</configuration>
