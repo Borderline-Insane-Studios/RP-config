@@ -210,6 +210,7 @@
 		<set name="improperreason">1w, Do not use insults as a reason!</set>
 		<set name="color">1h, No in-game (double caret (^)) color in names</set>
 		<set name="badname">1h, No Duplicate Names Allowed</set>
+		<set name="language">10m, Watch your language!</set>
 
 
 		<set name="fakecmd">1h, do not use fake commands</set>
