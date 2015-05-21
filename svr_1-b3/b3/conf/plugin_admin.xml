@@ -51,7 +51,7 @@
 <!-- Level 20’s -->
 		<set name="find">20</set>
 		<set name="warns">20</set>
-		<set name="w-slap">20</set>
+		<set name="w-slap">5</set>
 		<set name="warntest-wt">20</set>
 		<set name="status">20</set>
 		<set name="ci">20</set>
