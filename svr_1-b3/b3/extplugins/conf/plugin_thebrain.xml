@@ -1,5 +1,6 @@
 <configuration plugin="thebrain">
   <settings name="settings">
+	<set name="plugin-enabled">yes</set>
     <set name="rate">0</set>
     <set name="warnmsgbadword">Watch your Tone!</set>
     <set name="warnmsgbadname">Change your name or get kicked</set>
