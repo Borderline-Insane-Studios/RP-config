@@ -4,7 +4,7 @@
 	  <!-- Interval in minutes!  1 to 59 are acceptable values!
 	  If running roundbased games make sure you do not have more than
     one check scheduled per round! -->
-		<set name="interval">5</set>
+		<set name="interval">1</set>
 
 	  <!-- Check for duplicate playernames: -->
 		<set name="checkdupes">true</set>
