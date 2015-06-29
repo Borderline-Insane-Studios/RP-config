@@ -15,12 +15,12 @@
 		<!-- Number of short bans that will be issued -->
 		<set name="shortbanlimit">2</set>
 		<!-- Duration for short bans -->
-		<set name="shortbanduration">3d</set>
+		<set name="shortbanduration">7d</set>
 		
 		<!-- Number of medium bans that will be issued -->
 		<!-- If you do not want players to be permbanned set this value to 999 -->
 		<set name="mediumbanlimit">1</set>
 		<!-- Duration for medium bans -->
-		<set name="mediumbanduration">5d</set>
+		<set name="mediumbanduration">14d</set>
 	</settings>
 </configuration>
