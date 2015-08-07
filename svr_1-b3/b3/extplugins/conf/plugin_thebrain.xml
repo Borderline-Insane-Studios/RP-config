@@ -5,7 +5,7 @@
     <set name="warnmsgbadword">Watch your Tone!</set>
     <set name="warnmsgbadname">Change your name or get kicked</set>
     <set name="warnduration">2m</set>
-    <set name="minlevel">20</set>
+    <set name="minlevel">19</set>
    
     <set name="tell_badwords_in_db">no</set>
     <set name="tell_badwords_text">^1 I know no ^3 $count bad words</set>
