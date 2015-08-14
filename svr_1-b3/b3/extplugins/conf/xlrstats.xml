@@ -52,11 +52,15 @@
 	</settings>
 	<settings name="weapons">
 		<!-- Insert your weapon multipliers here, as they appear in the gamelog. See example below -->
-		<set name="bar_mp">1.00</set> 
+		<set name="bar_mp">1.00</set>
+		<set name="dragunov_mp">3.00</set>
+		<set name="barrett_mp">3.00</set>
 	</settings>
 	<settings name="actions">
 		<!-- Insert your action bonus here, as they appear in the gamelog. See example below. default is no (0) bonus -->
-		<set name="hq_defend">0.0</set> 
+		<set name="hq_defend">0.0</set>
+		<set name="briefcase_bomb_defuse_mp">2</set> 
+    		<set name="briefcase_bomb_mp">2</set>
 	</settings>
 	<settings name="replacements">
 		<!-- Collecting MOD_*** instead of weapons. Good if you want to have bashes/melees collected instead of the weapon used to bash/melee the victim with -->
