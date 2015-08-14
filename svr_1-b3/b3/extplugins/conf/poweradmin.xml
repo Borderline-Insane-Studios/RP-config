@@ -27,7 +27,7 @@
 		<set name="paexplode-explode">100</set>
 		<set name="paenforce-enforce">100</set>
 		<!-- Next two commands are disabled by default -->
-		<set name="paretaliate-retaliate">1000</set>
+		<set name="paretaliate-retaliate">100</set>
 <!--  
 		The next commands do not need any serverside mods. Carefull, these control the core of your server
 -->
