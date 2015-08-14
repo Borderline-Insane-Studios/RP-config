@@ -22,7 +22,7 @@
 		<set name="groups">100</set>
 		<set name="newgroup">100</set>
 		<set name="putgroup">100</set>
-		<set name="map">100</set>
+		<set name="map">80</set>
 		<set name="maprotate">100</set>
 		<set name="spankall-sall">100</set>
 		<set name="banall-ball">100</set>
