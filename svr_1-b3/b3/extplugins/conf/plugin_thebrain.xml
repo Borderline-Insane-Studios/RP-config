@@ -13,7 +13,7 @@
     <set name="uppercaseConttroll">on</set> 
     <set name="timeout">300</set> 
     <set name="warnmsguppercase">Dont write uppercase all the time!</set>
-    <set name="warn_uppercase_after_times">3</set>
+    <set name="warn_uppercase_after_times">5</set>
     <set name="warn_uppercase_duration">2m</set>
   </settings>
 </configuration>
