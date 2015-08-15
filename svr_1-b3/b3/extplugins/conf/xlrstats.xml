@@ -55,6 +55,7 @@
 		<set name="bar_mp">1.00</set>
 		<set name="dragunov_mp">3.00</set>
 		<set name="barrett_mp">3.00</set>
+		<set name="m14_mp">50.00</set>
 	</settings>
 	<settings name="actions">
 		<!-- Insert your action bonus here, as they appear in the gamelog. See example below. default is no (0) bonus -->
