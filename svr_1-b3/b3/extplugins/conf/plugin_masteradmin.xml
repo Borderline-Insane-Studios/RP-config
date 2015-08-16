@@ -3,7 +3,7 @@
 		<set name="maprestart">100</set>
 		<set name="fastrestart">100</set>
 		<set name="hardcore">100</set>
-		<set name="gametype">100</set>
+		<set name="gametype">80</set>
 		<set name="killcam">100</set>
 		<set name="ff">100</set>
 		<set name="spectate">100</set>
