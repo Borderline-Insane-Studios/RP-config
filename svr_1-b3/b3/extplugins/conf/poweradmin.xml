@@ -20,7 +20,7 @@
 		<set name="pacompensate-compensate">100</set>
 		<set name="paendmap-endmap">100</set>
 		<set name="pasaybold-sb">60</set>
-		<set name="parename-rename">100</set>
+		<set name="parename-rename">80</set>
 		<set name="paforceallspec-forceallspec">100</set>
 		<set name="pashock-shock">100</set>
 		<set name="paburn-burn">100</set>
