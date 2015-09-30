@@ -1,7 +1,7 @@
 <configuration plugin="masteradmin">
 	<settings name="commands">
 		<set name="maprestart">100</set>
-		<set name="fastrestart">100</set>
+		<set name="fastrestart">80</set>
 		<set name="hardcore">100</set>
 		<set name="gametype">80</set>
 		<set name="killcam">100</set>
