@@ -45,18 +45,20 @@
 		<ad>Visit us at ^5www.ig-gaming.tk^7. Don't forget to register!</ad>
 		<ad>Join us on Teamspeak: ^5ts3.boh-4u.de</ad>
 		<ad>Don't forget to ^5add^7 the server to your ^5favorites^7.</ad>
-		<ad>^5Recruitment^7 is currently ^5OPEN!</ad>
+		<ad>^5Recruitment^7 is currently ^5closed!</ad>
 		<ad>^5Regulars ^7can use !calladmin [playername] now!</ad>
-		<!--<ad>merry Christmas!</ad>
-		<ad>sretan Božic!</ad>
-		<ad>vesela koleda!</ad>
-		<ad>hyvää joulua!</ad>
-		<ad>joyeux Noël!</ad>
-		<ad>frohe Weihnachten!</ad>
-		<ad>kala xristougenna!</ad>
-		<ad>god jul!</ad>
-		<ad>un Craciun fericit!</ad>
-		<ad>vesel božic!</ad>
-		<ad>feliz Navidad!</ad>-->
+		<ad>Merry Christmas!</ad>
+		<ad>Play League of Legends? So do we! Join us on Teamspeak and queue up with us!</ad>
+		
+		//<ad>sretan Božic!</ad>
+		//<ad>vesela koleda!</ad>
+		//<ad>hyvää joulua!</ad>
+		//<ad>joyeux Noël!</ad>
+		//<ad>frohe Weihnachten!</ad>
+		//<ad>kala xristougenna!</ad>
+		//<ad>god jul!</ad>
+		//<ad>un Craciun fericit!</ad>
+		//<ad>vesel božic!</ad>
+		//<ad>feliz Navidad!</ad>-->
 	</ads>
 </configuration>
