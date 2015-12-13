@@ -47,7 +47,7 @@
 	</settings>
 	<settings name="commands">
 		<set name="xlrstats">1</set>
-		<set name="xlrtopstats">2</set>
+		<set name="xlrtopstats">1</set>
 		<set name="xlrhide">60</set>
 	</settings>
 	<settings name="weapons">
