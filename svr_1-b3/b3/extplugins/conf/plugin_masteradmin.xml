@@ -8,7 +8,7 @@
 		<set name="ff">100</set>
 		<set name="spectate">100</set>
 		<set name="mag">100</set>
-		<set name="setpassword">100</set>
+		<set name="setpassword">180</set>
 		<set name="restorepassword">100</set>
 		<set name="removepassword">80</set>
 		<set name="getpassword">20</set>
