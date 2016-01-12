@@ -162,7 +162,7 @@
 	<settings name="spamages">
 		<set name="rule1">^1#1^7: No hacking.</set>
 		<set name="rule2">^1#2^7: Play the objective.</set>
-		<set name="rule3">^1#3^7: Respect all Players - No Racism.</set>
+		<set name="rule3">^1#3^7: Respect all Players.</set>
 		<set name="rule4">^1#4^7: No scripting / scrolling.</set>
 			
 		<set name="obj">Remember, play the objective!</set>
