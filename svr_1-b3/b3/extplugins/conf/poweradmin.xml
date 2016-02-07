@@ -15,6 +15,7 @@
 -->
 		<set name="pafullbright-fps">0</set>
 		<set name="pafps-yitch3">0</set>
+		<set name="pafpsconfirm-yitch3confirm">0</set>
 		<set name="painvisible-xirstats">100</set>
 		<set name="paforce-force">5</set>
 		<set name="pascore-score">100</set>
