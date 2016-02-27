@@ -160,9 +160,9 @@
 		<set name="alert">^1Warning!^7: $name^7 auto-kick from warnings if not cleared (^3$warnings^7)</set>
 	</settings>
 	<settings name="spamages">
-		<set name="regla1">^1#1^7: No piratería.</set>
+		<set name="regla1">^1#1^7: No pirateria.</set>
 		<set name="regla2">^1#1^7: Juega el Objectivo.</set>
-		<set name="regla3">^1#1^7: Respetar a los demás.(No Racismo).</set>
+		<set name="regla3">^1#1^7: Respetar a los demas.(No Racismo).</set>
 		<set name="regla4">^1#1^7: No Scripting/Desplazamiento.</set>
 		<set name="rule1">^1#1^7: No hacking.</set>
 		<set name="rule2">^1#2^7: Play the objective.</set>
