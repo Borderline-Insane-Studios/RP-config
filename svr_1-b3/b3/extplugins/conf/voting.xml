@@ -5,7 +5,7 @@
 		<set name="vote_times">3</set> <!-- number of times it shows an announcement -->		
 		<set name="vote_interval_announcements">20</set> <!-- time in minutes between each announcement -->	
 		<set name="vote_interval_failed">30</set> <!-- time in minutes after a failed vote and re-vote -->	
-        	<set name="vote_minvotes">4</set> <!-- minimum necessary votes in order to pass a vote -->		
+        	<set name="vote_minvotes">2</set> <!-- minimum necessary votes in order to pass a vote -->		
 	</settings>
 	
 	<settings name="votekick">
