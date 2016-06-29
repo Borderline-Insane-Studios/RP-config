@@ -3,6 +3,9 @@ modifications were not needed for this -->
 
 <configuration plugin="login">
 	<settings name="settings">
+		<!-- Alias for !q3login that can be used to conceil admin logins -->
+		<set name="q3login-alias">test</set>
+		
 		<!-- The lowest level for which login is required -->
 		<set name="thresholdlevel">4</set>
 	
